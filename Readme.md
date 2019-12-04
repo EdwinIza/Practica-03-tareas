@@ -1,6 +1,6 @@
-## Aplicación de comandos NodeJS
+# Aplicación de comandos NodeJS
 
-# Antes de iniciar se deben instalar los paquetes:
+## Antes de iniciar se deben instalar los paquetes:
 
 ```
 
@@ -9,7 +9,7 @@ npm install yargs
 npm install colors
 
 ```
-# EL programa tiene la siguientes opciones como administrador de Tareas:
+## EL programa tiene la siguientes opciones como administrador de Tareas:
 *Crea tareas
 *Lista tareas completadas  y no completadas
 *Actualiza Tareas 
